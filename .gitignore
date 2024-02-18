@@ -6,3 +6,6 @@
 /ServicesDependency.sln.DotSettings.user
 /packages
 /obj/Debug
+/obj
+/.vs
+/ServiceDependency.csproj.user
