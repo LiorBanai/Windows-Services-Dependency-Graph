@@ -9,3 +9,4 @@
 /obj
 /.vs
 /ServiceDependency.csproj.user
+/bin/Debug/net9.0-windows
